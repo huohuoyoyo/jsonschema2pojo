@@ -25,7 +25,7 @@ A very simple Maven example:
     </executions>
 </plugin>
 ```
-
+how are you?
 Useful pages:
   * **[Getting Started](https://github.com/joelittlejohn/jsonschema2pojo/wiki/Getting-Started)**
   * [Reference](https://github.com/joelittlejohn/jsonschema2pojo/wiki/Reference)
